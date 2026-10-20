@@ -1,4 +1,3 @@
-"""A beginner-friendly terminal Sudoku game. Run with: python main.py"""
 import random
 
 SIZE = 9
